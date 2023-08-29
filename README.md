@@ -22,9 +22,7 @@ The data for the training has 59,400 rows and 40 columns without the label that 
 3)	functional but it needs to repair
 
 Exploratory Data Analysis (EDA)
-
-![image](https://github.com/jconns/Pump-It-Up-Data-Mining-the-Water-Table/assets/48659723/8eaadc4c-8562-40a2-80ec-0209b5337c73)
-
+Data Set Variables:
 population - Population around the well
 public_meeting - True/False
 recorded_by - Group entering this row of data
@@ -64,5 +62,6 @@ Show table of model results
 I used a random forest classification model.
 
 Proof of Submission
+
 <img width="468" alt="image" src="https://github.com/jconns/Pump-It-Up-Data-Mining-the-Water-Table/assets/48659723/a242c33b-4e69-4f80-86c7-b56ce78d2353">
 
