@@ -1,4 +1,4 @@
-# Pump-It-Up-Data-Mining-the-Water-Table
+# Pump It Up: Data Mining the Water Table
 
 Introduction
 
