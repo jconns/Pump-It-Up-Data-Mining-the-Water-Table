@@ -59,6 +59,7 @@ I also wanted to create a variable for the age of the water well. To do this I t
 I also used the two variables water_quality and management to capture the remaining variation due to upkeep and water quality.
 
 Models Used:
+
 Logit Model: 61% classification rate
 
 Ridge Regression: 50% classification rate
