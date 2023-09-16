@@ -60,7 +60,9 @@ I also used the two variables water_quality and management to capture the remain
 
 Models Used:
 Logit Model: 61% classification rate
+
 Ridge Regression: 50% classification rate
+
 Random Forest: 80% classification rate
 
 Proof of Submission
