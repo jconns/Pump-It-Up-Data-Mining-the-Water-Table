@@ -4,7 +4,7 @@ Introduction
 
 This project is based on the competition Driven Data had published about water pumps, in Tanzania, a large country that suffers from access to good quality water. The main project idea is to identify which pumps are functional, which need some repairs, and which don't work at all. The metric used for this competition is “Accuracy” for calculating the precision of the model.
 
-The result of the project was uploaded to score the predictions, which generated a response in the 66th percentile of 5282 entries. I scored 0.7411 while the best was 0.8294.
+The result of the project was uploaded to score the predictions, which generated a response in the 83th percentile of 5282 entries. I scored 0.815 while the best was 0.8294.
 
 Distribution of Labels
 The labels in this dataset are simple. There are three possible values:
@@ -58,10 +58,12 @@ I also wanted to create a variable for the age of the water well. To do this I t
 
 I also used the two variables water_quality and management to capture the remaining variation due to upkeep and water quality.
 
-Show table of model results
-I used a random forest classification model.
+Models Used:
+Logit Model: 61% classification rate
+Ridge Regression: 50% classification rate
+Random Forest: 80% classification rate
 
 Proof of Submission
 
-<img width="468" alt="image" src="https://github.com/jconns/Pump-It-Up-Data-Mining-the-Water-Table/assets/48659723/a242c33b-4e69-4f80-86c7-b56ce78d2353">
+![Screen Shot 2023-09-15 at 10 44 19 PM](https://github.com/jconns/Pump-It-Up-Data-Mining-the-Water-Table/assets/48659723/735324d9-ffa5-4862-b353-c98ce22eef8a)
 
